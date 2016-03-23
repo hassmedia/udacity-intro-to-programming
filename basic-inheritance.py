@@ -1,5 +1,5 @@
 '''
-Testing basic inheritance in python.
+Basic inheritance in python.
 '''
 
 # parent class

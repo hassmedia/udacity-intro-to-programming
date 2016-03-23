@@ -1,5 +1,5 @@
 '''
-This is a program for validating inputs for dates (day and year).
+This is a program for validating inputs (day and year).
 '''
 
 # function for validing the day

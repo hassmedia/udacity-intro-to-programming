@@ -1,5 +1,5 @@
 '''
-This is a dictionary with noble gases.
+Basic dictionary with noble gases.
 '''
 
 # empty dictionary

@@ -2,7 +2,7 @@ import turtle
 import random
 
 '''
-This is a program that draw with turtles.
+This is a program for drawing with turtles.
 '''
 
 # set window and background color

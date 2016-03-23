@@ -1,5 +1,5 @@
 '''
-This is a program for string substitution using python.
+Basic string substitution using python.
 '''
 
 # the string to substitute
